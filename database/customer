@@ -1,0 +1,19 @@
+{"Nama Pelanggan": "gag", "orders": [{"item": "Ayam Goreng", "price": 80000, "total_order": 4}], "Total Harga": 80000}
+{"id": "2024129112440", "date": "2024-1-29 11:24:40", "order_details": {"Nama Pelanggan": "gag", "orders": [{"item": "Ayam Goreng", "price": 80000, "total_order": 4}], "Total Harga": 80000}, "pay": 10000000, "exchange": 9920000}
+{"Nama Pelanggan": "haha", "orders": [{"item": "Mie Goreng", "price": 36000, "total_order": 3}], "Total Harga": 36000}
+{"id": "2024129112658", "date": "2024-1-29 11:26:58", "order_details": {"Nama Pelanggan": "haha", "orders": [{"item": "Mie Goreng", "price": 36000, "total_order": 3}], "Total Harga": 36000}, "pay": 10000000, "exchange": 9964000}
+{"Nama Pelanggan": "jhaihs", "orders": [{"item": "Ayam Goreng", "price": 40000, "total_order": 2}], "Total Harga": 40000}
+{"Nama Pelanggan": "halo", "orders": [{"item": "Ayam Goreng", "price": 40000, "total_order": 2}], "Total Harga": 40000}
+{"id": "2024129114819", "date": "2024-1-29 11:48:19", "order_details": {"Nama Pelanggan": "halo", "orders": [{"item": "Ayam Goreng", "price": 40000, "total_order": 2}], "Total Harga": 40000}, "pay": 100000, "exchange": 60000}
+{"Nama Pelanggan": "titrtgerte", "orders": [{"item": "Rendang", "price": 150000, "total_order": 6}], "Total Harga": 150000}
+{"Nama Pelanggan": "rgreg", "orders": [{"item": "Rendang", "price": 150000, "total_order": 6}], "Total Harga": 150000}
+{"Nama Pelanggan": "456546546", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
+{"Nama Pelanggan": "345ttert", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
+{"Nama Pelanggan": "etetr", "orders": [{"item": "Rendang", "price": 150000, "total_order": 6}], "Total Harga": 150000}
+{"Nama Pelanggan": "werwerr", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
+{"Nama Pelanggan": "etertrt", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
+{"Nama Pelanggan": "3454543", "orders": [{"item": "Rendang", "price": 150000, "total_order": 6}], "Total Harga": 150000}
+{"Nama Pelanggan": "23434544e", "orders": [{"item": "Rendang", "price": 150000, "total_order": 6}], "Total Harga": 150000}
+{"Nama Pelanggan": "ertert", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
+{"Nama Pelanggan": "wwerwer", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
+{"Nama Pelanggan": "ertert", "orders": [{"item": "Ikan Nila", "price": 140000, "total_order": 7}], "Total Harga": 140000}
